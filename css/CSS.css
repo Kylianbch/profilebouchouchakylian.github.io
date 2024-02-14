@@ -1,0 +1,120 @@
+h1 {
+    text-align: center;
+    font-size: 15px; 
+}
+
+.kylian-title {
+    font-size: 20px;
+    text-align: center;
+}
+body {
+    background-color: #aec6cf; 
+    color: white; 
+}
+.title-container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title-container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d8d855;
+    padding: 20px 0; 
+    margin-bottom: 20px; 
+}
+h1 {
+    margin: 0;
+}
+.left-centered-img {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 15px auto; 
+    border-radius: 50%; 
+}
+.social-logo {
+    width: 70px; 
+    height: auto;
+    vertical-align: middle; 
+    margin-right: 5px; 
+}
+.section-container {
+    background-color: #ffffff; 
+    border-radius: 20px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 80%; 
+    max-width: 800px; 
+    text-align: center; 
+}
+.left-centered-img, .left-centered-img2s, .left-centered-img3s {
+    max-width: 20%; 
+    height: auto;
+    display: block;
+    margin: 5px auto; 
+}
+
+body {
+    background-color: #aec6cf; 
+    color: #aec6cf; 
+}
+
+h1, h2, p, ul, li {
+    color: #05455c; 
+}
+.social-logo {
+    width: 50px;
+    height: auto; 
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.social-links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 15px; 
+    background-color: #ffffff; 
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    padding: 20px; 
+    margin: 20px auto; 
+    max-width: 800px; 
+}
+.social-logo {
+    width: 60px; 
+    height: auto; 
+}
+.centered-img5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    max-width: 100px; 
+    height: auto;
+}
+.centered-img5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
+.left-centered-img2s {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+    border-radius: 50%; 
+}
+.left-centered-img3s {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 15px auto; 
+    border-radius: 50%;
+}
